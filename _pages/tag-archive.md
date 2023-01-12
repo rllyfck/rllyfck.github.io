@@ -1,6 +1,6 @@
 ---
 title: "Publicaciones por etiqueta"
 permalink: /tags/
-layout: tags
+layout: etiquetas
 author_profile: true
 ---
