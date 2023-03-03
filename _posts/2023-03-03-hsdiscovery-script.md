@@ -1,5 +1,3 @@
-## Host Discovery - SCRIPT
-
 ---
 layout: single
 title: Hdiscovery - Mi primera herramienta
