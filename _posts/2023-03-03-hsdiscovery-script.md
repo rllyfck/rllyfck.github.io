@@ -9,10 +9,10 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-    - herramientas
-    - hackthebox
-    - tryhackme
+    - Herramientas
+    - Linux
 tags:  
   - Utilidad
   - Scripting
+  - Linux
 ---
