@@ -18,7 +18,7 @@ tags:
 ---
 # Herramienta
 
-Como se pude apreciar en la imágen, para que la herramietna funcione se debe poner ``` ./hdiscovery -h {ip} ```. Como salida del comando nos mostrará la IP previamente escrita y el sistema operativo al cual le pertenece.
+Como se pude apreciar en la imágen, para que la herramienta funcione se debe poner ``` ./hdiscovery -h {ip} ```. Como salida del comando nos mostrará la IP previamente escrita y el sistema operativo al cual le pertenece.
 
 # Código
 
