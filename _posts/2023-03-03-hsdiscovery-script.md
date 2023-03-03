@@ -9,12 +9,10 @@ header:
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
-  - hackthebox
-  - tryhackme
+    - herramientas
+    - hackthebox
+    - tryhackme
 tags:  
-  - utilidad
-  - scripting
-  - bash
-  - hashcat
-  - rules
+  - Utilidad
+  - Scripting
 ---
