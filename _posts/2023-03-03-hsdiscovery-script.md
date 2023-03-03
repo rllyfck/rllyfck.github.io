@@ -12,9 +12,9 @@ categories:
   - hackthebox
   - tryhackme
 tags:  
-  - script
-  - mysql
-  - mattermost
+  - utilidad
+  - scripting
+  - bash
   - hashcat
   - rules
 ---
