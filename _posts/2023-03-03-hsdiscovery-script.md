@@ -24,5 +24,18 @@ Como se pude apreciar en la imágen, para que la herramienta funcione se debe po
 
 ```
 #!/bin/bash
+
+# Created by @rllyfck on instagram and @rllyfc4 on twitter
+
+if [[ $1 == "-h" || $1 == "--host" ]]; then
+        ping=$(ping -c1 $2 | awk '{print $6}' | grep "ttl" | cut -c 5,6,7)
+        if [[ $ping -ge 128 ]]; then
+	        echo -e "\n\t[+] Internet Protocol: $2 | Operative Sistem: Windows"
+        else
+                echo -e "\n\t[+] Internet Protocol: $2 | Operative Sistem: Linux"
+        fi
+else
+	echo -e "\n\t[*] AYUDA: Debes introducir el parametro '-h' o '--host' seguido de la dirección IP."
+fi
 ```
 Para el reconocimiento del sistema operativo jugamos con el TTL, si el TTL tiene un número igual o inferior a 70 nos encontraremos ante un sistema Linux, mientras que si es mayor a 70 será un sistema Windows.
