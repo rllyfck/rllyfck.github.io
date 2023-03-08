@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Proteger nuestra red doméstica - National Security Agency
-excerpt: "Como defender nuestra red interna, métodos y que se debe hacer una vez han ingresado en nuestra red."
+excerpt: "Aprenderás a defender tu red interna, veremos métodos de protección y que se debe hacer una vez han comprometido nuestra seguridad."
 date: 2023-03-08
 classes: wide
 header:
