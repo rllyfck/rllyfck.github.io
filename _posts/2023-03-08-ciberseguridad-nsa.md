@@ -19,6 +19,7 @@ En el día de hoy os traigo información a cerca de como defender la red de nues
 
 # Métodos de protección
 
+```
 1- Mantener nuestro software y sistemas operativos SIEMPRE actualizados.
 
 2- Hacer copias de seguridad de nuestros equipos siempre que se pueda, esto nos será de utilidad cuando perdamos acceso a nuestros documentos y posteriormente queremos recuperarlos (en local y online).
@@ -29,7 +30,8 @@ En el día de hoy os traigo información a cerca de como defender la red de nues
 
 5- Tapar la webcam de nuestros ordenadores o smartphones.
 
-6- 
+6- Dividir los usuarios de los equipos informáticos  privilegiado con el privilegiado
+```
 
 Como aportación personal recomiendo configurar subredes dentro de nuestro router, esto separará nuestra red personal con la de invitados. Esta configuración evita la visibilidad de otros host en la red y también la caida de la red segundaria no afectará a la principal.
 
