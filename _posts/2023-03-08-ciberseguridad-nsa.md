@@ -5,7 +5,7 @@ excerpt: "Como defender nuestra red interna, métodos y que se debe hacer una ve
 date: 2023-03-08
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-delivery/delivery_logo.png
+  teaser: /assets/images/nasa-informacion)
   teaser_home_page: true
   icon: /assets/images/hackthebox.webp
 categories:
