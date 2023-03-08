@@ -5,9 +5,9 @@ excerpt: "Como defender nuestra red interna, métodos y que se debe hacer una ve
 date: 2023-03-08
 classes: wide
 header:
-  teaser: /assets/images/nasa-informacion)
+  teaser: /assets/images/nsa_informacion/portada.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/nsa_informacion/nsa_logo.png
 categories:
   - ciberseguridad
   - información
