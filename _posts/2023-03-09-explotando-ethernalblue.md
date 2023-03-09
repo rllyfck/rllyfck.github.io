@@ -1,7 +1,7 @@
 ---
 layout: single
 title: EternalBlue (MS17-010) - Explotación
-excerpt: "EternalBlue es una vulnerabilidad en Windows desarrollada por la NSA, esta fué filtrada por un grupo de cibercriminales. Aquí aprenderás a configurar tu propia máquina Windows 7 vulnerable"
+excerpt: "EternalBlue es una vulnerabilidad en Windows originada en la NSA, esta falla fué encontrada por un grupo de cibercriminales. Aquí aprenderás a configurar tu propia máquina Windows 7 vulnerable para posteriormente explotarla."
 date: 2023-03-09
 classes: wide
 header:
