@@ -5,12 +5,13 @@ excerpt: "EternalBlue es una vulnerabilidad en Windows desarrollada por la NSA, 
 date: 2023-03-09
 classes: wide
 header:
-  teaser: /assets/images/htb-writeup-fuse/fuse_logo.png
+  teaser: /assets/images/eternalblue/eternal.png
   teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
+  icon: /assets/images/nsa_informacion/nsa_logo.png
 categories:
   - vulnerabiliades
   - windows
+  - nsa
 tags:
   - password spray
   - crackmapexec
