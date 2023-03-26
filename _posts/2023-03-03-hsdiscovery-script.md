@@ -18,7 +18,7 @@ tags:
 ---
 # Herramienta
 
-Como se pude apreciar en la imágen, para que la herramienta funcione se debe poner ``` ./hdiscovery -h {ip} ```. Como salida del comando nos mostrará la IP previamente escrita y el sistema operativo al cual le pertenece.
+As you can see in the image, for the tool to work you must put ``` ./hdiscovery -h {ip} ```. As output of the command it will show us the IP previously written and the operating system to which it belongs.
 
 # Código
 
@@ -38,4 +38,4 @@ else
 	echo -e "\n\t[*] AYUDA: Debes introducir el parametro '-h' o '--host' seguido de la dirección IP."
 fi
 ```
-Para el reconocimiento del sistema operativo jugamos con el TTL, si el TTL tiene un número igual o inferior a 70 nos encontraremos ante un sistema Linux, mientras que si es mayor a 70 será un sistema Windows.
+For the recognition of the operating system we play with the TTL, if the TTL has a number equal to or less than 70 we will find a Linux system, while if it is greater than 70 it will be a Windows system.
