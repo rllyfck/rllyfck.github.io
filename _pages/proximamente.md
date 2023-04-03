@@ -1,6 +1,6 @@
 ---
 title: "Próximas publicaciones"
-layout: proximamente
+layout: Próximamente
 permalink: /proximamente/
 author_profile: true
 ---
